@@ -1,6 +1,6 @@
 # TriviaGame
 
-#### Overview *(Work in progress)
+#### Overview (Work in progress)
 
 Office trivia game using JavaScript for the logic and jQuery to manipulate HTML.
 
